@@ -1,0 +1,19 @@
+// @import 'header';
+// @import 'footer';
+
+// base
+$font-style: normal 18px sans-serif;
+$grey-color: #555;
+$white-color: #f5f5f5;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+	font: $font-style;
+	color: $grey-color;
+  line-height: 1.6;
+}

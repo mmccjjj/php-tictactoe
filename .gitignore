@@ -1,0 +1,5 @@
+# Untrack node_modules folders
+node_modules/
+
+# Untrack compiled css files
+www/public/build/
